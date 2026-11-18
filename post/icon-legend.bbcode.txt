@@ -1,0 +1,131 @@
+[size=150][b][u]WHAT THE ICONS MEAN[/u][/b][/size]
+
+A few general points:
+[list]
+[*][b]Red[/b] icons mean unread posts; [b]blue/grey[/b] icons mean everything has been read.
+[*]A [b]star[/b] on a topic icon means you have posted in that topic.
+[*]A [b]hot[/b] topic is one with a lot of posts. The default is 25; administrators can change it under ACP » General » Post settings » Popular topic threshold.
+[/list]
+
+[size=150][b][u]ANNOUNCEMENT ICONS[/u][/b][/size]
+
+[size=100][b][u]READ ANNOUNCEMENT ICONS[/u][/b][/size]
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/announce_read.gif[/img] - Read Announcement
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/announce_read_mine.gif[/img] - Read Announcement (Posted)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/announce_read_locked.gif[/img] - Read Announcement (Locked)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/announce_read_locked_mine.gif[/img] - Read Announcement (Locked)(Posted)
+
+[size=100][b][u]UNREAD ANNOUNCEMENT ICONS[/u][/b][/size]
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/announce_unread.gif[/img] - Unread Announcement
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/announce_unread_mine.gif[/img] - Unread Announcement (Posted)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/announce_unread_locked.gif[/img] - Unread Announcement (Locked)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/announce_unread_locked_mine.gif[/img] - Unread Announcement (Locked)(Posted)
+
+[size=150][b][u]STICKY TOPIC ICONS[/u][/b][/size]
+
+[size=100][b][u]READ STICKY TOPIC ICONS[/u][/b][/size]
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/sticky_read.gif[/img] - Read Sticky Topic
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/sticky_read_mine.gif[/img] - Read Sticky Topic (Posted)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/sticky_read_locked.gif[/img] - Read Sticky Topic (Locked)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/sticky_read_locked_mine.gif[/img] - Read Sticky Topic (Locked)(Posted)
+
+[size=100][b][u]UNREAD STICKY TOPIC ICONS[/u][/b][/size]
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/sticky_unread.gif[/img] - Unread Sticky Topic
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/sticky_unread_mine.gif[/img] - Unread Sticky Topic (Posted)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/sticky_unread_locked.gif[/img] - Unread Sticky Topic (Locked)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/sticky_unread_locked_mine.gif[/img] - Unread Sticky Topic (Locked)(Posted)
+
+[size=150][b][u]FORUM ICONS[/u][/b][/size]
+
+[size=100][b][u]READ FORUM ICONS[/u][/b][/size]
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/forum_link.gif[/img] - Forum Link
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/forum_read.gif[/img] - Read Forum
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/forum_read_locked.gif[/img] - Read Forum (Locked)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/forum_read_subforum.gif[/img] - Read Forum with Subforums
+
+[size=100][b][u]UNREAD FORUM ICONS[/u][/b][/size]
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/forum_unread.gif[/img] - Unread Forum
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/forum_unread_locked.gif[/img] - Unread Forum (Locked)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/forum_unread_subforum.gif[/img] - Unread Forum with Subforums
+
+[size=150][b][u]TOPIC ICONS[/u][/b][/size]
+
+[size=100][b][u]READ TOPIC ICONS[/u][/b][/size]
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_read.gif[/img] - Read Topic
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_read_mine.gif[/img] - Read Topic (Posted)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_read_hot.gif[/img] - Read HOT Topic
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_read_hot_mine.gif[/img] - Read HOT Topic (Posted)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_read_locked.gif[/img] - Read Topic (Locked)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_read_locked_mine.gif[/img] - Read Topic (Locked)(Posted)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_moved.gif[/img] - Moved Topic
+
+[size=100][b][u]UNREAD TOPIC ICONS[/u][/b][/size]
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_unread.gif[/img] - Unread Topic
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_unread_mine.gif[/img] - Unread Topic (Posted)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_unread_hot.gif[/img] - Unread HOT Topic
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_unread_hot_mine.gif[/img] - Unread HOT Topic (Posted)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_unread_locked.gif[/img] - Unread Topic (Locked)
+[img]https://www.phpbb.com/community/styles/prosilver/theme/images/topic_unread_locked_mine.gif[/img] - Unread Topic (Locked)(Posted)
+
+[size=150][b][u]SMALL ICONS[/u][/b][/size]
+
+[size=100][b][u]BOARD INDEX AND FORUM LIST[/u][/b][/size]
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/subforum_unread.png[/img] - Subforum has unread posts
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/subforum_read.png[/img] - Subforum has no unread posts
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/subforum_link.png[/img] - Subforum is a link to another site
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/last_post.png[/img] - Go to the last post in the forum
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/feed.png[/img] - Feed (RSS/Atom) for that forum
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/unapproved.png[/img] - Topics or posts are waiting for approval (moderators only)
+
+[size=100][b][u]TOPIC LIST[/u][/b][/size]
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/first_unread.png[/img] - Topic has unread posts; click it to jump straight to the first one you haven't read
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/last_post.png[/img] - Go to the last post in the topic
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/attachment.png[/img] - Topic has attachments
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/poll.png[/img] - Topic has a poll
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/pagination.png[/img] - Topic has more than one page; click a number to go to that page
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/reported.png[/img] - Topic has been reported (moderators only)
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/unapproved.png[/img] - Topic or post is waiting for approval (moderators only)
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/deleted.png[/img] - Topic has been soft deleted (moderators only)
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/locked.png[/img] - Forum is locked; no new topics can be posted
+
+[size=100][b][u]INSIDE A TOPIC[/u][/b][/size]
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/post_unread.png[/img] - Unread post
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/post_read.png[/img] - Read post
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/reply.png[/img] - Post a reply
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/locked.png[/img] - Topic is locked; no replies can be posted
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/topic_tools.png[/img] - Topic tools menu
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/bookmark.png[/img] - Bookmark this topic
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/email_topic.png[/img] - Email this topic to a friend
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/bump.png[/img] - Bump this topic
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/print.png[/img] - Print view
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/quote.png[/img] - Reply with a quote
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/edit.png[/img] - Edit the post
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/delete.png[/img] - Delete the post
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/report.png[/img] - Report the post
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/warn.png[/img] - Warn the poster (moderators only)
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/info.png[/img] - Post details (moderators only)
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/contact.png[/img] - Contact the poster
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/reported.png[/img] - Post has been reported, or is waiting for approval (moderators only)
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/back_to_top.png[/img] - Back to top
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/search.png[/img] - Search this topic or forum
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/advanced_search.png[/img] - Advanced search
+
+[size=100][b][u]TOP OF THE PAGE[/u][/b][/size]
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/quick_links.png[/img] - Quick links menu
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/unread_posts.png[/img] - Unread posts, or new posts since your last visit
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/active_topics.png[/img] - Active topics
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/unanswered.png[/img] - Unanswered topics, or your own posts
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/faq.png[/img] - FAQ
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/notifications.png[/img] - Notifications; the number shows how many are unread
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/private_messages.png[/img] - Private messages; the number shows how many are unread
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/ucp.png[/img] - User Control Panel
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/profile.png[/img] - Your profile
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/members.png[/img] - Members list
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/team.png[/img] - The team
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/login_logout.png[/img] - Log in or log out
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/register.png[/img] - Register
+[img]https://raw.githubusercontent.com/phpbbmodders/phpbb-icon-legend/main/icons/board_index.png[/img] - Board index
+
+The small picture some topics have before their title (smiley, lightbulb, arrow and so on) is a topic icon. The poster picks it when posting, if the forum allows topic icons, and it doesn't mean anything about read or unread status.
+
+Colours and shapes are for the default prosilver style; other styles may look different.

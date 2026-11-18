@@ -1,0 +1,30 @@
+name: Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Lint and post check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install flake8
+        run: pip install flake8==7.1.1
+
+      - name: Lint the scripts
+        run: flake8 scripts/
+
+      # Fails when the built post is stale or names an icon with no PNG.
+      - name: Check the built post
+        run: python3 scripts/build_post.py --check
